@@ -1,0 +1,19 @@
+League-Prediction SEO Tag
+--------------------
+<title>England Premier League - Predictions and Statistics | Followbet.io</title>    <!-- Change the Leagues Name -->
+<meta name="author" content="Followbet">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="Football predictions, mathematical football predictions, followbet, football, stats, scores, statistics, match previews, livescore, live scores, live predictions, injury and suspension, injury player, free predictions, soccer predictions, england premier league predictions"> <!-- Change the Leagues Name -->
+<meta name="description" content="England Premier League free football predictions, statistics, scores, match previews and more. | Followbet.io">  <!-- Change the Leagues Name -->
+
+<meta property="og:title" content="England Premier League - Predictions and Statistics | Followbet.io">   <!-- Change the Leagues Name -->
+<meta property="og:type" content="website">
+<meta property="og:image" content="">
+<meta property="og:url" content="https://www.followbet.io//">   <!-- replace this link with the currently page link -->
+<meta property="og:site_name" content="Followbet - Mathematical football predictions, Statistics, Previews for today.">
+<meta property="og:description" content="England Premier League free football predictions, statistics, scores, match previews and more. | Followbet.io">  <!-- Change the Leagues Name -->
+
+<meta property="fb:app_id" content="">
+<meta property="article:author" content="https://www.facebook.com/followbet">
+<meta property="article:publisher" content="https://www.facebook.com/followbet">
+<link rel="canonical" href="https://www.followbet.io/">

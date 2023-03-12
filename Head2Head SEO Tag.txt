@@ -1,0 +1,19 @@
+Head2Head SEO Tag
+--------------------
+<title>Bournemouth vs Liverpool predictions, H2H, Lineups and stats - 11/03/2023 | Followbet.io</title>    <!-- Change the Home-vs-Away name with K.O date -->
+<meta name="author" content="Followbet">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="Football predictions, mathematical football predictions, followbet, football, stats, scores, statistics, match previews, livescore, live scores, live predictions, injury and suspension, injury player, free predictions, soccer predictions, bournemouth vs liverpool 11032023"> <!-- Change the Home-vs-Away Name with K.O date -->
+<meta name="description" content="Bournemouth vs Liverpool football predictions, preview and statistics for this match of England Premier League on 11/03/2023 | Followbet.io">  <!-- Change the Home-vs-Away Name with Leagues name and K.O date -->
+
+<meta property="og:title" content="Bournemouth vs Liverpool predictions, H2H, Lineups and stats - 11/03/2023 | Followbet.io">   <!-- Change the Home-vs-Away name with K.O date -->
+<meta property="og:type" content="website">
+<meta property="og:image" content=""> 
+<meta property="og:url" content="https://www.followbet.io//">   <!-- replace this link with the currently page link -->
+<meta property="og:site_name" content="Followbet - Mathematical football predictions, Statistics, Previews for today.">
+<meta property="og:description" content="Bournemouth vs Liverpool football predictions, preview and statistics for this match of England Premier League on 11/03/2023 | Followbet.io">  <!-- Change the Home-vs-Away Name with Leagues name and K.O date -->
+
+<meta property="fb:app_id" content="">
+<meta property="article:author" content="https://www.facebook.com/followbet">
+<meta property="article:publisher" content="https://www.facebook.com/followbet">
+<link rel="canonical" href="https://www.followbet.io/">
